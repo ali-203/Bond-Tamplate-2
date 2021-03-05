@@ -103,21 +103,32 @@ flex: 75%;
                         color: #495569;
                         white-space: break-spaces;
                         margin-top: 20px;
-                        
                     }
                     .user-panel {
-                        /* box-shadow: 4px 4px 4px 4px ; */
+                        border-radius: 4px;
                         display: flex;
                         justify-content: space-between;
                         padding-right: 15px;
                         padding-left: 15px;
-                        border: 1px solid;
+                       padding-top: 11px;
+                       padding-bottom: 11px;
+                        border: 1px solid #E5E5E5;
                         border-color: FFFFFF;
-                        /* background-color: #FFFFFF; */
-
+                        background-color: #FFFFFF
                     }
                     .col-2 {
                         background: #E5E5E5;
+                        /* margin-left: 20px;
+                      margin-top: 20px; */
+                    }
+                    .collumn {
                         margin-left: 20px;
-                      margin-top: 20px;
+                        margin-top: 20px;
+                        background: #E5E5E5;
+                    }
+                    .paragraph-tag p {
+                        font-size: 14px;
+                        color: #777777;
+
+
                     }

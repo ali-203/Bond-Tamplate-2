@@ -129,6 +129,14 @@ flex: 75%;
                     .paragraph-tag p {
                         font-size: 14px;
                         color: #777777;
-
-
                     }
+.user-panel2{
+    border: 1px solid #E5E5E5;
+    border-color: FFFFFF;
+    background-color: #FFFFFF;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}

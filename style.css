@@ -66,3 +66,45 @@ flex: 75%;
     color: white;
     font-size: 13px;
     }
+    .line {
+        
+        margin-top: 25px;
+        border: 1px solid #001B47;
+    }
+
+    .div1 {
+        font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    }
+    .div2 {
+        display: flex;
+        justify-content: space-evenly;
+        color: #FE9C00;
+     padding-top: 8px;
+    padding-bottom: 8px;
+        ;
+        background-color: #001B47;
+        }
+        .div3 {
+            display: flex;
+            color: #495569;
+            justify-content: space-evenly;
+            }
+            .div4 {
+                color: #495569;
+                display: flex;
+                justify-content: space-evenly;
+                }
+                .div5 {
+                    color: #495569;
+                    display: flex;
+                    justify-content: space-evenly;
+                    }
+
+                    .five-images {
+                        color: #495569;
+                        white-space: break-spaces;
+                        margin-top: 20px;
+                        
+                    }

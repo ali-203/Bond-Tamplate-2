@@ -37,6 +37,7 @@ body{
    }
 
    .col-1 {
+       height: 600px;
     background: #001331;
 flex :15%;
    }
@@ -45,4 +46,23 @@ flex: 75%;
 }
 .col-3 {
     flex: 10%;
+    }
+
+    .vector3 {
+        margin-left: 12px;
+        margin-top: 12px;
+    }
+    .ellips6 {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .three-logo {
+    margin-top: 20px;
+    letter-spacing: 20px;
+    }
+    .ellips6 h4{
+    font-weight: 100;
+    color: white;
+    font-size: 13px;
     }

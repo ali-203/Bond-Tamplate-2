@@ -169,6 +169,7 @@ margin-left: 10px;
 
 
 .user-panel3 {
+    margin-left: 20px;
     margin-top: 15px;
     border-radius: 4px;
     display: flex;
@@ -183,6 +184,7 @@ margin-left: 10px;
 }
 .customers {
 margin-left: 22px;
+border: 1px solid gray;
 }
 
 
@@ -208,4 +210,21 @@ letter-spacing: 15px;
   }
   .dec{
     background-color: #FFFFFF;
+  }
+  .pending {
+    background: #00E95D;
+    height: 25px;
+    width: 74px;
+    border-radius: 12px;
+    border: none;
+    outline: none;
+  }
+
+  .collect{
+    background: #FE9C00;
+    height: 25px;
+    width: 74px;
+    border-radius: 12px;
+    border: none;
+    outline: none;
   }

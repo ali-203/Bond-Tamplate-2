@@ -182,7 +182,7 @@ margin-left: 10px;
     background-color: #FFFFFF
 }
 .customers {
-margin-left: 20px
+margin-left: 22px;
 }
 
 
@@ -192,15 +192,20 @@ letter-spacing: 15px;
 }
 
 .customers td, #customers th {
-    border: 1px solid #ddd;
+    /* border: 1px solid #ddd; */
     padding: 10px 10px;
   }
   .customers th {
     padding-top: 12px;
     padding-bottom: 12px;
-    padding-right: 45px;
-    padding-left: 45px;
+    padding-right: 57px;
+    padding-left: 40px;
     text-align: center;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #FFFFFF;
+
+    color: #777777;
+
+  }
+  .dec{
+    background-color: #FFFFFF;
   }
